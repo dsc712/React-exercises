@@ -1,0 +1,50 @@
+.Recipe{
+    background: #ffffff ;
+    border : 2px solid green;
+    width : 23% ;
+    min-height: 30vh;
+    box-shadow: 6px 9px 5px 0px rgba(82,82,82,1);
+    border-bottom-radius: 5% ;
+    margin: 20px ;
+    transition: 1s ;
+    cursor: pointer;
+}
+.Recipe:hover{
+    box-shadow: none ;
+    transition: 1s ;
+}
+.Recipe h1{
+    background: green;
+    padding: 15px ;
+    margin-top: 0px ;
+    color: #fff ;
+}
+.Recipe img{
+    height: 100% ;
+    width: 100% ;
+
+}
+.Recipe .imageContainer{
+    height: 25% ;
+}
+.Recipe ul{
+    list-style: none ;
+    border : 2px solid green;
+    border-left-color: transparent;
+    border-right-color: transparent;
+}
+.Recipe ul li{
+    padding: 5px ;
+    border-bottom: 0.5px solid green;
+    margin-left: -35px ;
+    text-align: left;
+    transition: 0.5s ;
+}
+.Recipe ul li:hover{
+    background: green ;
+    color: #ffffff;
+    transition: 0.5s ;
+}
+.Recipe ul li:last-child{
+    border-bottom: transparent;
+}

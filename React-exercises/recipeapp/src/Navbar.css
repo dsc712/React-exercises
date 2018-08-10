@@ -1,0 +1,28 @@
+.Navbar-Component {
+    display : flex;
+    justify-content: flex-end;
+    background: green ;
+    color : #ffffff;
+    position: fixed;
+    width : 100% ;
+    margin-top: -20px ;
+}
+
+.Navbar-Component h3{
+  margin-right: auto;
+    margin-left: 80px ;
+    cursor: pointer ;
+}
+
+.Navbar-Component ol{
+    display: flex;
+    list-style: none ;
+}
+.Navbar-Component li{
+    margin-right: 40px ;
+    font-weight: bold;
+    cursor: pointer;
+}
+.Navbar-Component ol:last-child{
+    margin-right : 80px ;
+}
