@@ -8,11 +8,11 @@ class Recipe extends Component{
         img  : "https://www.gimmesomeoven.com/wp-content/uploads/2012/08/Roasted-Vegetable-Mac-and-Cheese-Recipe-1.jpg" ,
         instructions : 'mix the ingredients' ,
         ingredients : ['flour' , 'water' , 'oil'  , 'spices' , 'onion' ]
-     }
+     };
 
      static propTypes =  {
         ingredients: PropTypes.arrayOf(PropTypes.string).isRequired
-     }
+     };
 
 
     render(){
@@ -22,7 +22,7 @@ class Recipe extends Component{
         const ingredient =  this.props.ingredients.map( (ing , i ) => {
             return <li key={i} >{ing}</li>
             // while returning an array you should provide an unique key to each element of that array
-        } ) ;
+        });
 
 
       return(
