@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5999e21d-e453-45eb-b512-4f9c0668a1f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.idea/ReactPractice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/React-exercises.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../random-boxes/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/todolist.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../update-complex-state/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../update-complex-state/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../update-complex-state/.idea/update-complex-state.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../update-complex-state/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../update-complex-state/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../update-complex-state/package-lock.json" beforeDir="false" />
-    </list>
+    <list default="true" id="5999e21d-e453-45eb-b512-4f9c0668a1f2" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -187,12 +163,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536652366226</updated>
-      <workItem from="1536652367666" duration="8611000" />
+      <workItem from="1536652367666" duration="9196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8611000" />
+    <option name="totallyTimeSpent" value="9196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
